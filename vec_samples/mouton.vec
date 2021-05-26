@@ -1,0 +1,57 @@
+[CARRE_PLEIN : 0, 0, 199, blue, 100, 1, 0]; ciel
+[RECTANGLE_PLEIN : 0, 0, 199, 50, green, 100, 1, 1]; herbe
+[DISQUE : 175, 175, 4, yellow, 100, 1, 1]; soleil
+[DISQUE : 175, 175, 9, yellow, 90, 1, 1];
+[DISQUE : 175, 175, 14, yellow, 80, 1, 1];
+[DISQUE : 175, 175, 19, yellow, 75, 1, 1];
+[DISQUE : 175, 175, 24, yellow, 70, 1, 1];
+
+[DISQUE : 75, 100, 10, white, 100, 1, 3]; corps
+[DISQUE : 90, 100, 10, white, 100, 1, 3];
+[DISQUE : 105, 100, 10, white, 100, 1, 3];
+[DISQUE : 120, 100, 10, white, 100, 1, 3];
+[DISQUE : 135, 100, 10, white, 100, 1, 3];
+[DISQUE : 150, 95, 10, white, 100, 1, 3];
+[DISQUE : 160, 90, 10, white, 100, 1, 3];
+[DISQUE : 165, 85, 10, white, 100, 1, 3];
+[DISQUE : 165, 80, 10, white, 100, 1, 3];
+[DISQUE : 160, 75, 10, white, 100, 1, 3];
+[DISQUE : 150, 70, 10, white, 100, 1, 3];
+[DISQUE : 75, 65, 10, white, 100, 1, 3];
+[DISQUE : 90, 65, 10, white, 100, 1, 3];
+[DISQUE : 105, 65, 10, white, 100, 1, 3];
+[DISQUE : 120, 65, 10, white, 100, 1, 3];
+[DISQUE : 135, 65, 10, white, 100, 1, 3];
+[DISQUE : 60, 95, 10, white, 100, 1, 3];
+[DISQUE : 50, 90, 10, white, 100, 1, 3];
+[DISQUE : 45, 85, 10, white, 100, 1, 3];
+[DISQUE : 45, 80, 10, white, 100, 1, 3];
+[DISQUE : 50, 75, 10, white, 100, 1, 3];
+[DISQUE : 60, 70, 10, white, 100, 1, 3];
+[DISQUE : 75, 80, 20, white, 100, 1, 3];
+[DISQUE : 135, 80, 20, white, 100, 1, 3];
+[DISQUE : 100, 80, 20, white, 100, 1, 3];
+
+[RECTANGLE_PLEIN : 55, 45, 60, 65, brown, 100, 1, 2]; pattes
+[RECTANGLE_PLEIN : 70, 40, 75, 60, brown, 100, 1, 2];
+[RECTANGLE_PLEIN : 125, 45, 130, 65, brown, 100, 1, 2];
+[RECTANGLE_PLEIN : 140, 40, 145, 65, brown, 100, 1, 2];
+
+[CARRE_PLEIN : 55, 45, 5, black, 100, 1, 2]; sabots
+[CARRE_PLEIN : 70, 40, 5, black, 100, 1, 2];
+[CARRE_PLEIN : 125, 45, 5, black, 100, 1, 2];
+[CARRE_PLEIN : 140, 40, 5, black, 100, 1, 2];
+
+[DISQUE : 50, 100, 20, brown, 100, 1, 4]; tête
+[DISQUE : 40, 105, 5, white, 100, 1, 5]; yeux
+[DISQUE : 60, 105, 5, white, 100, 1, 5];
+[DISQUE : 40, 102, 2, black, 100, 1, 6]; pupilles
+[DISQUE : 60, 102, 2, black, 100, 1, 6];
+[DISQUE : 45, 87, 2, white, 100, 1, 5]; narines
+[DISQUE : 55, 87, 2, white, 100, 1, 5];
+[DISQUE : 45, 88, 2, brown, 100, 1, 6]; 
+[DISQUE : 55, 88, 2, brown, 100, 1, 6];
+[DISQUE : 35, 115, 6, brown, 100, 1, 3]; oreilles
+[DISQUE : 65, 115, 6, brown, 100, 1, 3];
+[DISQUE : 35, 115, 2, rose, 100, 1, 3]; 
+[DISQUE : 65, 115, 2, rose, 100, 1, 3];
